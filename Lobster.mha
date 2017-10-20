@@ -1,0 +1,6 @@
+NDims = 3
+DimSize = 301 324 56
+ElementType = MET_UCHAR
+ElementSpacing = 1.0 1.0 1.4
+ElementByteOrderMSB = False
+ElementDataFile = Lobster.raw
